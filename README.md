@@ -8,3 +8,4 @@ i just don't want to leak the scripts made by my friend, even if some of them ar
 # Update Logs
 fixed some bugs
 a new lib has been added for greater user freedom
+auto generator stills in dev
