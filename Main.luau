@@ -13,7 +13,7 @@ end;
 local Setmetatable = setmetatable;
 local PCall = pcall;
 local Select = select;
-local Unpack = unpack or table.unpack;
+local Unpack = table.unpack;
 local ToNumber = tonumber;
 local function VMCall(ByteString, vmenv, ...)
 	local DIP = 1;
