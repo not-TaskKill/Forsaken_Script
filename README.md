@@ -1,4 +1,4 @@
-# Forsaken_Script
+# Forsaken Script
 made by TaskKill btw
 
 # Why Obfuscation?
