@@ -1,5 +1,5 @@
 # Forsaken Script
-made by TaskKill btw
+script info: esp, esp, esp, esp, esp
 
 # Why Obfuscation?
 not a rat or ip logging
